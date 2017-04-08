@@ -1,0 +1,17 @@
+{
+  "name": "bootcamp",
+  "version": "1.0.0",
+  "description": "FizzBuzz function",
+  "main": "library.js",
+  "dependencies": {
+    "jasmine": "^2.5.3"
+  },
+  "devDependencies": {
+    "jasmine": "^2.5.3"
+  },
+  "scripts": {
+    "test": "jasmine test.js"
+  },
+  "author": "ANETOH JENNIFER",
+  "license": "MIT"
+}
